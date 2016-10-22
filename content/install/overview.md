@@ -5,8 +5,8 @@ title: "Install"
 weight: 10
 menu:
   main:
-    name: "Install"
-    pre: "<i class=\"fa fa-download\"></i>"
+    name: "Installtestststst"
+    pre: "<i class=\"fa fa-downloadteststststtsststst\"></i>"
     weight: 20
     identifier: "install"
     url: "/install/overview/"
